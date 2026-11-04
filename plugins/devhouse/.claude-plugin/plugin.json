@@ -1,0 +1,11 @@
+{
+  "name": "devhouse",
+  "description": "An orchestrated multi-agent dev-house: a co-PM orchestrator plus seven specialist agents (Pris/planner, Delia/designer, Dahlia/developer, Tessa/tester, Roxy/reviewer, Shiro/security-reviewer, Remi/release-manager), plus eight session-form role skills (the manager and the seven specialists, /devhouse:<role>) for a team of separate Claude Desktop sessions, with build, maintenance, and cold-adoption onboarding workflows, and a fixed documentation standard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cring-von-Conman"
+  },
+  "homepage": "https://github.com/Cring-von-Conman/devhouse",
+  "repository": "https://github.com/Cring-von-Conman/devhouse",
+  "license": "MIT"
+}

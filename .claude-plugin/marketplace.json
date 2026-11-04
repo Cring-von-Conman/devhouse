@@ -1,0 +1,16 @@
+{
+  "name": "devhouse",
+  "owner": {
+    "name": "Cring-von-Conman"
+  },
+  "plugins": [
+    {
+      "name": "devhouse",
+      "source": "./plugins/devhouse",
+      "homepage": "https://github.com/Cring-von-Conman/devhouse",
+      "repository": "https://github.com/Cring-von-Conman/devhouse",
+      "license": "MIT",
+      "description": "Orchestrated multi-agent dev-house: co-PM orchestrator + 7 specialists (as subagents), plus eight role skills (the manager and the seven specialists) for a team of separate Claude Desktop sessions, with build / maintenance / onboarding tracks and a fixed documentation standard."
+    }
+  ]
+}

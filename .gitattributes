@@ -1,0 +1,4 @@
+plugins/devhouse/team/*.sh text eol=lf
+plugins/devhouse/team/*.py text eol=lf
+tools/tests/**/*.sh text eol=lf
+tools/tests/**/*.py text eol=lf
